@@ -1,4 +1,4 @@
-# Agentic-AI-SOC
+# AI-SOC-Agents
 
 
 **Overview**  
