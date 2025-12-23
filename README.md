@@ -17,6 +17,9 @@ Maintenance Rewrite scripts Update goals/tools/knowledge
 
 | Capability | SOAR Playbook | AI Agent |  
 | -------- | ------- | ---------|
-| Planning  | $250    |
-| Scenarios | $80     |
-| Edge cases| $420    |
+| Planning  | Fixed script | Dynamic planning    |  
+| Scenarios | Anticipates specific cases     | Adapts to novel situations    | 
+| Edge cases| Breaks when off-script    |  Re-plans when unexpected    | 
+| Context  | No understanding    | Reasons about business/threat context    |  
+| Integration | Rigid API calls     | Flexible tool use    | 
+| Maintenance| Rewrite scripts    |  Update goals/tools/knowledge    | 
