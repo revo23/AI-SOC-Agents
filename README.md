@@ -1,6 +1,6 @@
 # AI-SOC-Agents
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7842ca38-e943-4492-9efd-e243f299dc32" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7842ca38-e943-4492-9efd-e243f299dc32" />
 
 **Overview**  
 Tackling one of the most critical challenges in cybersecurity operations: context gathering and alert fatigue. Context gathering is a fundamental part of detection and response; most of the time it is also tedious and repetitive, making it well-suited for handling by AI agents.
