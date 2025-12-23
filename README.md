@@ -16,7 +16,7 @@ Tackling one of the most critical challenges in cybersecurity operations: contex
 | Integration | Rigid API calls     | Flexible tool use    | 
 | Maintenance| Rewrite scripts    |  Update goals/tools/knowledge    | 
 
-**Versus Agentic SOC**
+**Versus Agentic SOC**  
 AI SOC Agents: AI tools or models deployed within a SOC (Security Operations Center) that assist analysts. They are generally task-specific and reactive, performing functions like alert triage, log correlation, or threat enrichment.  
 
-Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.
+Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.  
