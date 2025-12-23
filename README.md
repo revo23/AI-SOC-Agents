@@ -15,8 +15,8 @@ context
 Integration Rigid API calls Flexible tool use
 Maintenance Rewrite scripts Update goals/tools/knowledge
 
-| Capability | SOAR Playbook | Ai Agent |
-| -------- | ------- |
+| Capability | SOAR Playbook | AI Agent |  
+| -------- | ------- | ---------|
 | Planning  | $250    |
 | Scenarios | $80     |
 | Edge cases| $420    |
