@@ -106,5 +106,5 @@ AI SOC Agents: AI tools or models deployed within a SOC (Security Operations Cen
 Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.  
 
 **Further Work**
-- This was just an example with a SIEM alert of incoming IP, try out more other varieties of alerts (EDR, NDR, UEBA, Cloud, Email).
+- This was just an example with a SIEM alert with incoming IP, try out more other varieties of alerts (EDR, NDR, UEBA, Cloud, Email).
 - Automated Agentic SOC in simulated environment in VM (using Splunk, n8n, LLM and Slack) instead of just Colab notebook
