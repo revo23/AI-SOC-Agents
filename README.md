@@ -23,10 +23,12 @@ Agentic SOC: A SOC framework where AI operates more autonomously as “agents”
 
 **Sample PoC Results**
 Incoming Alert  
+```
 Alert: High volume of traffic detected from source 185.220.101.1 to internal database.
+```
 
 Output Report:
-
+```
 --- Current Node: triage ---
 Investigation Result: 🚨 Alert: IP 185.220.101.1 is MALICIOUS.
 Malicious detections: 13 / 95 engines.
@@ -97,3 +99,4 @@ The activities associated with IP 185.220.101.1 clearly demonstrate an ongoing t
 [Name, Title]  
 [Signature]  
 [Date]  
+```
