@@ -1,4 +1,4 @@
-# AI SOC Agents for Security Ochestration (ASASO)
+# AI SOC Agents
 
 <img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/de5b7986-9114-4d3a-af30-3c308f8ae7a1" />
 
