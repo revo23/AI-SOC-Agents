@@ -5,6 +5,9 @@
 **Overview**  
 Tackling one of the most critical challenges in cybersecurity operations: context gathering (correlation between various data sources) and alert fatigue. Context gathering is a fundamental part of detection and response; most of the time it is also tedious and repetitive, making it well-suited for handling by AI agents. PoC done using LangChain/LangGraph in a Google Colab notebook.
 
+<img width="1184" height="464" alt="image" src="https://github.com/user-attachments/assets/ebc38a85-77c3-45b3-a770-b6b8fbc8e221" />  
+
+
 **Versus current automation (SOAR)**
 
 | Capability | SOAR Playbook | AI Agent |  
