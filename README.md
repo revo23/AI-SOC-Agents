@@ -3,7 +3,7 @@
 <img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/de5b7986-9114-4d3a-af30-3c308f8ae7a1" />
 
 **Overview**  
-Tackling one of the most critical challenges in cybersecurity operations: context gathering (correlation between various data sources) and alert fatigue. Context gathering is a fundamental part of detection and response; most of the time it is also tedious and repetitive, making it well-suited for handling by AI agents. PoC of 'Tier 1 SOC Analyst' tasks (Ip check, web searches, determine true or false positive) done using LangChain/LangGraph in a Google Colab notebook.
+Tackling one of the most critical challenges in cybersecurity operations: context gathering (correlation between various data sources) and alert fatigue. Context gathering is a fundamental part of detection and response; most of the time it is also tedious and repetitive, making it well-suited for handling by AI agents. PoC of 'Tier 1 SOC Analyst' tasks (IP check, web searches, determine true or false positive) done using LangChain/LangGraph in a Google Colab notebook.
 
 <img width="1184" height="464" alt="image" src="https://github.com/user-attachments/assets/ebc38a85-77c3-45b3-a770-b6b8fbc8e221" />  
 
