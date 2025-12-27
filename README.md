@@ -19,11 +19,6 @@ Tackling one of the most critical challenges in cybersecurity operations: contex
 | Integration | Rigid API calls     | Flexible tool use    | 
 | Maintenance| Rewrite scripts    |  Update goals/tools/knowledge    | 
 
-**Versus Agentic SOC**  
-AI SOC Agents: AI tools or models deployed within a SOC (Security Operations Center) that assist analysts. They are generally task-specific and reactive, performing functions like alert triage, log correlation, or threat enrichment.  
-
-Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.  
-
 **Sample PoC Results**  
 Incoming Alert:
 ```
@@ -103,3 +98,13 @@ The activities associated with IP 185.220.101.1 clearly demonstrate an ongoing t
 [Signature]  
 [Date]  
 ```
+
+
+**Versus Agentic SOC**  
+AI SOC Agents: AI tools or models deployed within a SOC (Security Operations Center) that assist analysts. They are generally task-specific and reactive, performing functions like alert triage, log correlation, or threat enrichment.  
+
+Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.  
+
+**Further Work**
+- This was just an example with a SIEM alert of incoming IP, try out more other varieties of alerts (EDR, NDR, UEBA, Cloud, Email).
+- Automated Agentic SOC in simulated environment in VM (using Splunk, n8n, LLM and Slack) instead of just Colab notebook
