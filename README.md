@@ -21,8 +21,8 @@ AI SOC Agents: AI tools or models deployed within a SOC (Security Operations Cen
 
 Agentic SOC: A SOC framework where AI operates more autonomously as “agents” with goals, decision-making ability, and the capacity to orchestrate actions across multiple systems. Think AI-driven SOC operations rather than AI-assisted SOC operations.  
 
-**Sample PoC Results**
-Incoming Alert  
+**Sample PoC Results**  
+Incoming Alert:
 ```
 Alert: High volume of traffic detected from source 185.220.101.1 to internal database.
 ```
